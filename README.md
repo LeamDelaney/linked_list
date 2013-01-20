@@ -10,6 +10,10 @@ allow you to create linked lists of any type, even your own custom types.
 Since I provide no warranty for this code, by using it, you are agreeing to the
 terms outlined in the DISCLAIMER.
 
+Oh, and the build command for the test program is :
+
+gcc list.c test.c -o testProgram
+
 Other than that. Have fun with this code, and be sure to let me know if
 you use my ADT do something cool : Leam@xanthu.com
 
